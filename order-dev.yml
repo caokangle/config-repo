@@ -7,4 +7,7 @@ spring:
     password: root
     url: jdbc:mysql://127.0.0.1:3306/springclould_sell?characterEncoding=utf8&characterSetResults=utf8
 env:
-  dev1
+  dev
+girl:
+  age: 29
+  name: caokangle
